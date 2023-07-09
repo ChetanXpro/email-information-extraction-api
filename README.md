@@ -1,2 +1,2 @@
-# typescript-starter
-- This starter code i use mostly for my nodejs server.
+# email-information-extraction-api
+- Extraction of some important points from email using gpt
